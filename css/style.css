@@ -179,6 +179,14 @@ footer {
 
 .product-wrapper {
 }
+
+.product-wrapper h2 {
+  color: var(--container-color);
+  text-align: center;
+  margin: 2rem 0rem;
+  font-size: 3rem;
+  font-weight: 900;
+}
 .product {
   padding: 3rem 1rem;
 }
