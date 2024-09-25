@@ -120,7 +120,7 @@ const addCard = (e) => {
     }, 1000);
     showError("Item has already on your cardList", "#F7E6A4");
     errorDiv.classList.add("error-active");
-    console.log(item);
+    // console.log(item);
   }
 
   displayCard();
@@ -208,7 +208,7 @@ const removeCard = (e) => {
   }, 1000);
   showError("Remove Item", "#E55969");
   errorDiv.classList.add("error-active");
-  console.log(e.target);
+  // console.log(e.target);
 
   displayCard();
 };
