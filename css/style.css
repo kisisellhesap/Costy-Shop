@@ -390,6 +390,7 @@ button:hover {
   padding: 0.5rem 1rem;
   position: fixed;
   width: 30%;
+  min-height: 1.5rem;
   min-width: 280px;
   background-color: red;
   right: 0;
